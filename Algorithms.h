@@ -1,5 +1,5 @@
 //
-// Created by eitan on 30.03.25.
+// Eitan.Beriy@msmail.ariel.ac.il
 //
 
 #ifndef ALGORITHMS_H
