@@ -1,4 +1,4 @@
-// Eitan.Beriy@msmail.ariel.ac.il
+# Eitan.Beriy@msmail.ariel.ac.il
 
 CC = g++
 CFLAGS = -std=c++20 -g -I./DataStructures -I./DynamicDataStructures -I./Testing
