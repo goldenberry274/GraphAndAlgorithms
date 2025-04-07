@@ -1,5 +1,5 @@
 //
-// Created by eitan on 3/29/25.
+// Eitan.Beriy@msmail.ariel.ac.il
 //
 
 #ifndef STACK_H
