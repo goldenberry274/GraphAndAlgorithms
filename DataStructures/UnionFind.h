@@ -1,5 +1,5 @@
 //
-// Created by eitan on 4/5/25.
+// Eitan.Beriy@msmail.ariel.ac.il
 //
 
 #ifndef UNIONFIND_H
